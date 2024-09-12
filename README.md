@@ -1,4 +1,4 @@
-<p align="center"><img alt="我的知识花园" src="https://b3log.org/images/brand/solo-128.png"></p><h2 align="center">
+<p align="center"><img alt="我的知识花园" src="https://b3logfile.com/avatar/1698671253981_1725859339866.png"></p><h2 align="center">
 我的知识花园
 </h2>
 
@@ -10,6 +10,11 @@
 
 ### 最新
 
+* [shell常用命令](http://117.72.17.114/articles/2024/09/10/1725952122064.html)
+* [gdb调试技巧](http://117.72.17.114/articles/2024/09/10/1725951587076.html)
+* [内核链表的使用](http://117.72.17.114/articles/2024/09/10/1725946333272.html)
+* [socket创建类型](http://117.72.17.114/articles/2024/09/10/1725946165218.html)
+* [简述AI网络](http://117.72.17.114/articles/2024/09/10/1725945586561.html)
 * [union共用体使用技巧](http://117.72.17.114/articles/2024/09/09/1725875409481.html)
 * [用户态收发包lib库简述](http://117.72.17.114/articles/2024/09/09/1725874046040.html)
 * [世界，你好！](http://117.72.17.114/hello-solo)
