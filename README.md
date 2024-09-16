@@ -10,18 +10,18 @@
 
 ### 最新
 
-* [grafana使用配置](http://117.72.17.114/articles/2024/09/13/1726223030568.html)
-* [Linux下nginx源码部署](http://117.72.17.114/articles/2024/09/13/1726218836301.html)
-* [Linux下Elasticsearch+Kibana安装部署](http://117.72.17.114/articles/2024/09/13/1726215690272.html)
-* [图标素材梳理](http://117.72.17.114/articles/2024/09/13/1726204334006.html)
-* [shell常用命令](http://117.72.17.114/articles/2024/09/10/1725952122064.html)
-* [gdb调试技巧](http://117.72.17.114/articles/2024/09/10/1725951587076.html)
-* [内核链表的使用](http://117.72.17.114/articles/2024/09/10/1725946333272.html)
-* [socket创建类型](http://117.72.17.114/articles/2024/09/10/1725946165218.html)
-* [简述AI网络](http://117.72.17.114/articles/2024/09/10/1725945586561.html)
-* [union共用体使用技巧](http://117.72.17.114/articles/2024/09/09/1725875409481.html)
-* [用户态收发包lib库简述](http://117.72.17.114/articles/2024/09/09/1725874046040.html)
-* [世界，你好！](http://117.72.17.114/hello-solo)
+* [grafana使用配置](http://localhost/articles/2024/09/13/1726223030568.html)
+* [Linux下nginx源码部署](http://localhost/articles/2024/09/13/1726218836301.html)
+* [Linux下Elasticsearch+Kibana安装部署](http://localhost/articles/2024/09/13/1726215690272.html)
+* [图标素材梳理](http://localhost/articles/2024/09/13/1726204334006.html)
+* [shell常用命令](http://localhost/articles/2024/09/10/1725952122064.html)
+* [gdb调试技巧](http://localhost/articles/2024/09/10/1725951587076.html)
+* [内核链表的使用](http://localhost/articles/2024/09/10/1725946333272.html)
+* [socket创建类型](http://localhost/articles/2024/09/10/1725946165218.html)
+* [简述AI网络](http://localhost/articles/2024/09/10/1725945586561.html)
+* [union共用体使用技巧](http://localhost/articles/2024/09/09/1725875409481.html)
+* [用户态收发包lib库简述](http://localhost/articles/2024/09/09/1725874046040.html)
+* [世界，你好！](http://localhost/hello-solo)
 
 
 
