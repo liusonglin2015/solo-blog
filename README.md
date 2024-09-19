@@ -13,7 +13,6 @@
 * [grafana使用配置](https://liusonglin.top/articles/2024/09/13/1726223030568.html)
 * [Linux下nginx源码部署](https://liusonglin.top/articles/2024/09/13/1726218836301.html)
 * [Linux下Elasticsearch+Kibana安装部署](https://liusonglin.top/articles/2024/09/13/1726215690272.html)
-* [图标素材梳理](https://liusonglin.top/articles/2024/09/13/1726204334006.html)
 * [shell常用命令](https://liusonglin.top/articles/2024/09/10/1725952122064.html)
 * [gdb调试技巧](https://liusonglin.top/articles/2024/09/10/1725951587076.html)
 * [内核链表的使用](https://liusonglin.top/articles/2024/09/10/1725946333272.html)
@@ -21,7 +20,6 @@
 * [简述AI网络](https://liusonglin.top/articles/2024/09/10/1725945586561.html)
 * [union共用体使用技巧](https://liusonglin.top/articles/2024/09/09/1725875409481.html)
 * [用户态收发包lib库简述](https://liusonglin.top/articles/2024/09/09/1725874046040.html)
-* [世界，你好！](https://liusonglin.top/hello-solo)
 
 
 
