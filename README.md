@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [分布式并行介绍](https://liusonglin.top/articles/2024/09/24/1727163023294.html)
 * [grafana使用配置](https://liusonglin.top/articles/2024/09/13/1726223030568.html)
 * [Linux下nginx源码部署](https://liusonglin.top/articles/2024/09/13/1726218836301.html)
 * [Linux下Elasticsearch+Kibana安装部署](https://liusonglin.top/articles/2024/09/13/1726215690272.html)
